@@ -26,7 +26,9 @@ Our models are trained and evaluated on [Super-NaturalInstructions](https://gith
 ```bash
 git clone git@github.com:allenai/natural-instructions.git data
 ```
+
 Put the data under the path: "./Tk-Instruct-main/data"
+
 We use TK-instruct-main to generate our base dataset and then use our python code to further process. You can run the shell directly
 ```shell
     bash script/data_processing.sh
@@ -70,6 +72,7 @@ A sample script for evaluating basline and PACIT models. You can run it as follo
 
 Here are the performance numbers (in ROUGE-L) for our tested models:
 
+![GitHub Logo](figure/performance.png)
 
 ## Citation
 
