@@ -3,6 +3,9 @@
 - PACIT is a simple and effective in-context instruction tuning method inspired by the pedagogical concept of desirable difficulty. The PACIT method unlocks the power of examples by encouraging the model to actively learn to grasp the distinctions between the positive and negative examples instead of merely reading. The model is expected to first verify the correctness of the provided example according to the task description, which is then set as the condition for generating a better response to the task instance. 
 - It is built based on the pretrained [T5 model](https://arxiv.org/abs/1910.10683) and [LLaMA](https://arxiv.org/pdf/2307.09288.pdf), and finetuned on SuperNI dataset [data](https://github.com/allenai/natural-instructions).
 
+## Model Checkpoint
+Model checkpoints are published on Huggingface hub: [T5 model](https://huggingface.co/happy-frog/T5_3B-PACIT) and [LLaMA](https://huggingface.co/happy-frog/LLAMA_2-PACIT)
+
 ![GitHub Logo](figure/overview.jpg)
 ## Requirements
 
