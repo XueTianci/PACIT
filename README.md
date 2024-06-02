@@ -6,7 +6,7 @@
 ![GitHub Logo](figure/overview.jpg)
 
 ## Model Checkpoint
-Model checkpoints are published on Huggingface hub: [T5 model](https://huggingface.co/happy-frog/T5_3B-PACIT) and [LLaMA](https://huggingface.co/happy-frog/LLAMA_2-PACIT)
+Model checkpoints are published on Huggingface hub: [T5-3B model](https://huggingface.co/happy-frog/T5_3B-PACIT), [T5-770M model](https://huggingface.co/happy-frog/T5_770M-PACIT/tree/main) and [LLaMA](https://huggingface.co/happy-frog/LLAMA_2-PACIT)
 
 ## Requirements
 
