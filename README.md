@@ -81,10 +81,10 @@ Here are the performance numbers (in ROUGE-L) for our tested models:
 ## Citation
 
 ```bib
-@misc{xue2023tadis,
-      title={TADIS: Steering Models for Deep-Thinking about Demonstration Examples}, 
+@misc{xue2024pacit,
+      title={PACIT: Unlocking the Power of Examples for Better In-Context Instruction Tuning}, 
       author={Tianci Xue and Ziqi Wang and Yixia Li and Yun Chen and Guanhua Chen},
-      year={2023},
+      year={2024},
       eprint={2310.00901},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
